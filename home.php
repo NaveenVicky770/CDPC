@@ -19,10 +19,10 @@
   </head>
   
   <body>
-    <div class="container-fluid">
-        <h1>Career Development and Placement Cell</h1>
-        <p>Rajiv Gandhi University of Knowledge Technologies-Nuzvid,Andhra Pradesh.</p>
-    </div>
+       <?php include('includes/header.html'); ?>
+       <?php include('includes/nav_bar.html'); ?>
+       <?php include('includes/footer.html'); ?>
+      
   </body>
   
 </html>
