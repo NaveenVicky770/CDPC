@@ -1,7 +1,6 @@
-<?php include( 'includes/header.html' );
-?>
-<?php include( 'includes/nav_bar.html' );
-?>
+<?php include( 'includes/header.html' );?>
+<?php include( 'includes/nav_bar.html' );?>
+
 
 <body>
 
@@ -73,5 +72,5 @@
         </div>
     </div>
 
-    <?php include( 'includes/footer.html' );
+<?php include( 'includes/footer.html' );
 ?>
