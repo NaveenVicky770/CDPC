@@ -1,18 +1,5 @@
 <?php include( 'includes/header.html' );?>
 <?php include( 'includes/nav_bar.html' );?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <title>CDPC RGUKT-Ongole</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-</head>
-<body>
-
-
 
 <style type="text/css">
 ol li{
@@ -30,7 +17,7 @@ ol li:before
 	border: none;
 }
 </style>
-
+<body>
 <div class="container-fluid" style="margin-top: 30px;">
 	<div class="row">
 <div class="col-sm-1 col-md-1 col-lg-1 col-xs-1"></div>
@@ -168,6 +155,5 @@ ol li:before
 		</div>
 		</div>
 </body>
-</html>
 <?php include( 'includes/footer.html' );
 ?>
