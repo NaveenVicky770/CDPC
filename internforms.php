@@ -41,19 +41,19 @@
                                 <tbody>
                                     <tr>
                                         <td><i class="fa fa-arrow-circle-right"></i> Student Application format (Summer Internship Annexure-1)</td>
-                                        <td><button class="btn btn-sm btn-success" href="forms/Summer/Student Application format (Internship Annexure-1).pdf"><i class="fa fa-download"></i></button></td>
+                                        <td><a class="btn btn-sm btn-success" href="forms/Summer/Student Application format (Internship Annexure-1).pdf">Download</a></td>
                                     </tr>
                                     <tr>
                                         <td><i class="fa fa-arrow-circle-right"></i> Undertaking form (Internship Annexure 2) </td>
-                                        <td><button class="btn btn-sm btn-success" href="forms/Summer/Undertaking form (Internship Annexure 2).pdf"><i class="fa fa-download"></i></button></td>
+                                        <td><a class="btn btn-sm btn-success" href="forms/Summer/Undertaking form (Internship Annexure 2).pdf">Download</a></td>
                                     </tr>
                                     <tr>
                                         <td><i class="fa fa-arrow-circle-right"></i> No Objection Certificate (Summer Internship Annexure 3)</td>
-                                        <td><button class="btn btn-sm btn-success" href="forms/Summer/No Objection Certificate (Internship Annexure 3).pdf"><i class="fa fa-download"></i></button></td>
+                                        <td><a class="btn btn-sm btn-success" href="forms/Summer/No Objection Certificate (Internship Annexure 3).pdf">Download</a></td>
                                     </tr>
                                     <tr>
                                         <td><i class="fa fa-arrow-circle-right"></i> Student-Leave-application-form-for-Biometric-attendance</td>
-                                        <td><button class="btn btn-sm btn-success" href="forms/Student-Leave-application-form-for-Biometric-attendance.pdf"><i class="fa fa-download"></i></button></td>
+                                        <td><a class="btn btn-sm btn-success" href="forms/Student-Leave-application-form-for-Biometric-attendance.pdf">Download</a></td>
                                     </tr>
 
                                 </tbody>
@@ -76,11 +76,11 @@
                                 <tbody>
                                     <tr>
                                         <td><i class="fa fa-arrow-circle-right"></i> Relieving certificate (Summer Internship Annexure-4)</td>
-                                        <td><button class="btn btn-sm btn-success" href="forms/Summer/Relieving certificate (Internship Annexure-4).pdf"><i class="fa fa-download"></i></button></td>
+                                        <td><a class="btn btn-sm btn-success" href="forms/Summer/Relieving certificate (Internship Annexure-4).pdf">Download</a></td>
                                     </tr>
                                     <tr>
                                         <td><i class="fa fa-arrow-circle-right"></i> Evaluation form (Summer Internship Annexure-5)</td>
-                                        <td><button class="btn btn-sm btn-success" href="forms/Summer/Evaluation form (Internship Annexure-5).pdf"><i class="fa fa-download"></i></button></td>
+                                        <td><a class="btn btn-sm btn-success" href="forms/Summer/Evaluation form (Internship Annexure-5).pdf">Download</a></td>
                                     </tr>
                                 </tbody>
                             </table>
@@ -103,19 +103,19 @@
                                 <tbody>
                                     <tr>
                                         <td><i class="fa fa-arrow-circle-right"></i> Student Application format (Longterm Internship Annexure-1)</td>
-                                        <td><button class="btn btn-sm btn-success" href="forms/Longterm/Student Application format (Internship Annexure-1).pdf"><i class="fa fa-download"></i></button></td>
+                                        <td><a class="btn btn-sm btn-success" href="forms/Longterm/Student Application format (Internship Annexure-1).pdf">Download</a></td>
                                     </tr>
                                     <tr>
                                         <td><i class="fa fa-arrow-circle-right"></i> Undertaking form (Longterm Internship Annexure 2)</td>
-                                        <td><button class="btn btn-sm btn-success" href="forms/Longterm/Undertaking form (Internship Annexure 2).pdf"><i class="fa fa-download"></i></button></td>
+                                        <td><a class="btn btn-sm btn-success" href="forms/Longterm/Undertaking form (Internship Annexure 2).pdf">Download</a></td>
                                     </tr>
                                     <tr>
                                         <td><i class="fa fa-arrow-circle-right"></i> No Objection Certificate (Longterm Internship Annexure 3)</td>
-                                        <td><button class="btn btn-sm btn-success" href="forms/Longterm/No Objection Certificate (Internship Annexure 3).pdf"><i class="fa fa-download"></i></button></td>
+                                        <td><a class="btn btn-sm btn-success" href="forms/Longterm/No Objection Certificate (Internship Annexure 3).pdf">Download</a></td>
                                     </tr>
                                     <tr>
                                         <td><i class="fa fa-arrow-circle-right"></i> Student-Leave-application-form-for-Biometric-attendance</td>
-                                        <td><button class="btn btn-sm btn-success" href="forms/Student-Leave-application-form-for-Biometric-attendance.pdf"><i class="fa fa-download"></i></button></td>
+                                        <td><a class="btn btn-sm btn-success" href="forms/Longterm/Student-Leave-application-form-for-Biometric-attendance.pdf">Download</a></td>
                                     </tr>
 
                                 </tbody>
@@ -133,15 +133,15 @@
                                 <tbody>
                                     <tr>
                                         <td><i class="fa fa-arrow-circle-right"></i> Relieving certificate (Longterm Internship Annexure-4)</td>
-                                        <td><button class="btn btn-sm btn-success" href="forms/Longterm/Relieving certificate (Internship Annexure-4).pdf"><i class="fa fa-download"></i></button></td>
+                                        <td><a class="btn btn-sm btn-success" href="forms/Longterm/Relieving certificate (Internship Annexure-4).pdf">Download</a></td>
                                     </tr>
                                     <tr>
                                         <td><i class="fa fa-arrow-circle-right"></i> Evaluation form (Longterm Internship Annexure-5)</td>
-                                        <td><button class="btn btn-sm btn-success" href="forms/Longterm/Evaluation form (Internship Annexure-5).pdf"><i class="fa fa-download"></i></button></td>
+                                        <td><a class="btn btn-sm btn-success" href="forms/Longterm/Evaluation form (Internship Annexure-5).pdf">Download</a></td>
                                     </tr>
                                     <tr>
                                         <td><i class="fa fa-arrow-circle-right"></i>Relieving Letter (Longterm Internship Annexure-6)</td>
-                                        <td><button class="btn btn-sm btn-success" href="forms/Longterm/Relieving Letter (Internship Annexure-6).pdf"><i class="fa fa-download"></i></button></td>
+                                        <td><a class="btn btn-sm btn-success" href="forms/Longterm/Relieving Letter (Internship Annexure-6).pdf">Download</a></td>
                                     </tr>
                                 </tbody>
                             </table>
