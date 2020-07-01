@@ -70,11 +70,11 @@
 								</div>
 								<div class="col-md-8">
 									<div class="card-body">
-										<h5 class="card-title">Alacriti_21_RD</h5>
+										<h5 class="card-title">Vedantu</h5>
 										<p>Internship<br>Location : Hyderabad<br>Stipend : 5.5LPA</p>
 										<p>
-											<div class="alert alert-warning">
-												<strong><i class="fa fa-clock-o"></i> Closed on 2020-03-10</strong>
+											<div class="alert alert-success">
+												<strong><i class="fa fa-clock-o"></i> Placed Here</strong>
 											</div>												
 										</p>
 									</div>
